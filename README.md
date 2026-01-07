@@ -1,24 +1,18 @@
-# Simple Calculator - Java
+## Getting Started
 
-## 📌 Project Description
-A simple Java console-based calculator that performs basic arithmetic operations such as:
-- Addition
-- Subtraction
-- Multiplication
-- Division
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## 🛠 Technologies Used
-- Java
-- VS Code
+## Folder Structure
 
-## ▶ How to Run
-1. Compile the program:
-   javac Calculator.java
-2. Run the program:
-   java Calculator
+The workspace contains two folders by default, where:
 
-## 📚 Learning Outcome
-- Java basics
-- Switch case
-- User input using Scanner
-- GitHub project setup
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
